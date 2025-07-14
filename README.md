@@ -1,1 +1,1 @@
-Heart disease classification Project. 
+This Heart disease classification Project involves creation of a model that uses some medical features to identify if someone has a heart disease or not. Data was obtained from Kaggle and is provided in this repo, thanks.
